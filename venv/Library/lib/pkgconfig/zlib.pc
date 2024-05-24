@@ -1,8 +1,8 @@
-prefix=C:/git-projects/keras_project_1/venv/Library
-exec_prefix=C:/git-projects/keras_project_1/venv/Library
-libdir=C:/git-projects/keras_project_1/venv/Library/lib
-sharedlibdir=C:/git-projects/keras_project_1/venv/Library/lib
-includedir=C:/git-projects/keras_project_1/venv/Library/include
+prefix=c:/git-projects/keras_project_1/venv/Library
+exec_prefix=c:/git-projects/keras_project_1/venv/Library
+libdir=c:/git-projects/keras_project_1/venv/Library/lib
+sharedlibdir=c:/git-projects/keras_project_1/venv/Library/lib
+includedir=c:/git-projects/keras_project_1/venv/Library/include
 
 Name: zlib
 Description: zlib compression library

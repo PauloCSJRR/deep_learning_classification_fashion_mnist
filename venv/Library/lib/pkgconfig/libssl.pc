@@ -1,4 +1,4 @@
-prefix=C:/git-projects/keras_project_1/venv/Library 
+prefix=c:/git-projects/keras_project_1/venv/Library 
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

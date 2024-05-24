@@ -26,7 +26,7 @@
     "paths": [],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "vc",
   "sha256": "9d805bb094b7c7af70b376368bc8f1718cc994aa91b501a31d8eccb6f1b35ec6",
   "size": 9969,
   "subdir": "win-64",
